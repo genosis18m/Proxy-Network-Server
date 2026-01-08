@@ -162,3 +162,17 @@
 [2026-01-08 18:32:24] Client: [::1]:52846 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
 [2026-01-08 18:32:31] Client: [::1]:43694 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
 [2026-01-08 18:32:38] Client: [::1]:47188 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:32:43] Client: [::1]:47198 | Host: browser.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:32:45] Client: [::1]:47204 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:32:52] Client: [::1]:34750 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:32:53] Client: [::1]:34764 | Host: waa-pa.clients6.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:32:54] Client: [::1]:34770 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:32:59] Client: [::1]:41286 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:33:06] Client: [::1]:59176 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:33:10] Client: [::1]:59178 | Host: play.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:33:13] Client: [::1]:59186 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:33:20] Client: [::1]:34992 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:33:27] Client: [::1]:33422 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:33:34] Client: [::1]:33430 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:33:41] Client: [::1]:55460 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:33:48] Client: [::1]:32950 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked

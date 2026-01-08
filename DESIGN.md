@@ -309,6 +309,118 @@ make clean
 
 ---
 
+## Error Handling
+
+### Connection Errors
+
+| Error Type | Handling Strategy |
+|------------|-------------------|
+| Failed to connect to target | Return `502 Bad Gateway` to client, log error |
+| Connection timeout | 10-second timeout on `net.DialTimeout`, return `502` |
+| Read/Write errors | Close connection gracefully, log error |
+| Invalid request format | Return `400 Bad Request` to client |
+
+### Request Parsing Errors
+
+```go
+// Invalid request line handling
+if len(parts) < 3 {
+    logConnection(logFile, clientAddr, "", "", "ERROR", "Invalid request line")
+    sendError(clientConn, 400, "Bad Request")
+    return
+}
+```
+
+### Graceful Connection Closure
+
+- `defer clientConn.Close()` ensures client connection is always closed
+- `defer targetConn.Close()` ensures target connection is always closed
+- TCP half-close with `CloseWrite()` signals EOF without dropping data
+
+---
+
+## Limitations
+
+### Current Implementation Limitations
+
+| Limitation | Description |
+|------------|-------------|
+| No persistent connections | Each request creates a new connection (no HTTP/1.1 keep-alive) |
+| No chunked encoding parsing | Chunked transfer is forwarded transparently without interpretation |
+| No request body size limits | Large uploads are forwarded without size restrictions |
+| No connection pooling | Target connections are not reused |
+| Single log file | No log rotation implemented |
+| Memory-resident blocklist | Blocklist is loaded at startup, requires restart to update |
+
+### Not Implemented (Optional Extensions)
+
+| Feature | Status |
+|---------|--------|
+| Response caching | Not implemented |
+| Proxy authentication | Not implemented |
+| Rate limiting | Not implemented |
+| HTTPS inspection (MITM) | Not implemented (only tunneling) |
+
+---
+
+## Security Considerations
+
+### Input Validation
+
+1. **Request Line Parsing**: Validates HTTP request format before processing
+2. **Host Header Sanitization**: Strips port, converts to lowercase before blocklist check
+3. **Domain Canonicalization**: Normalizes domains (lowercase, trim whitespace)
+
+### Potential Vulnerabilities and Mitigations
+
+| Vulnerability | Mitigation |
+|---------------|------------|
+| Request smuggling | Single request per connection, no keep-alive |
+| Log injection | Log entries use fixed format, special characters not escaped (potential issue) |
+| DNS rebinding | Not mitigated - proxy trusts DNS resolution |
+| Open proxy abuse | Bind to localhost only, or implement authentication |
+| Resource exhaustion | Connection timeout (10s), but no rate limiting |
+
+### Recommendations for Production Use
+
+1. **Bind to localhost**: Don't expose proxy to public internet without authentication
+2. **Implement authentication**: Add Basic or Digest authentication for authorized users
+3. **Add rate limiting**: Prevent abuse by limiting connections per IP
+4. **Log rotation**: Implement log rotation to prevent disk exhaustion
+5. **TLS for proxy connection**: Consider TLS between client and proxy for sensitive environments
+
+### Current Security Posture
+
+```
+[WARNING] This proxy is intended for educational/development use.
+For production deployment, implement:
+- Authentication
+- Rate limiting  
+- TLS encryption
+- Log sanitization
+- Access control lists
+```
+
+---
+
+## Building and Running
+
+```bash
+# Build
+make build
+
+# Run
+make run
+
+# Test
+make test
+
+# Clean
+make clean
+```
+
+---
+
 ## Future Enhancements
 
 1. **Authentication**: Add proxy authentication support
@@ -317,3 +429,4 @@ make clean
 4. **Caching**: Add response caching for frequently accessed resources
 5. **Metrics**: Prometheus metrics endpoint for monitoring
 6. **Graceful Shutdown**: Handle SIGTERM for clean shutdown
+
