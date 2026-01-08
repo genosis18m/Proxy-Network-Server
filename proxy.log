@@ -434,3 +434,72 @@
 [2026-01-08 18:45:44] Client: [::1]:40122 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
 [2026-01-08 18:45:44] Client: [::1]:59138 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
 [2026-01-08 18:45:45] Client: [::1]:59150 | Host: github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:45:49] Client: [::1]:41592 | Host: clientservices.googleapis.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:45:51] Client: [::1]:41604 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:45:58] Client: [::1]:36820 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:46:05] Client: [::1]:36838 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:46:05] Client: [::1]:36836 | Host: browser.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:07] Client: [::1]:46704 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:12] Client: [::1]:46710 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:46:19] Client: [::1]:48176 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:46:25] Client: [::1]:48192 | Host: github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:32] Client: [::1]:34290 | Host: github.githubassets.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:32] Client: [::1]:34294 | Host: nav-edge.smartscreen.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:33] Client: [::1]:34308 | Host: api.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:33] Client: [::1]:34302 | Host: collector.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:33] Client: [::1]:34322 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:34] Client: [::1]:34344 | Host: fonts.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:34] Client: [::1]:34330 | Host: self.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:34] Client: [::1]:34358 | Host: alive.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:35] Client: [::1]:48184 | Host: edgedl.me.gvt1.com | Method: GET | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:80: i/o timeout
+[2026-01-08 18:46:42] Client: [::1]:45820 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:45] Client: [::1]:34366 | Host: 1.1.1.1 | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 1.1.1.1:443: i/o timeout
+[2026-01-08 18:46:45] Client: [::1]:45826 | Host: www.google-analytics.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:45] Client: [::1]:34376 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
+[2026-01-08 18:46:47] Client: [::1]:46182 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:47] Client: [::1]:46168 | Host: nleditor.osi.office.net | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:52] Client: [::1]:46188 | Host: fonts.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:53] Client: [::1]:46198 | Host: fonts.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:53] Client: [::1]:46220 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:46:53] Client: [::1]:46224 | Host: waa-pa.clients6.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:53] Client: [::1]:46214 | Host: www.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:53] Client: [::1]:46232 | Host: play.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:46:54] Client: [::1]:46246 | Host: www.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:00] Client: [::1]:59388 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:01] Client: [::1]:59400 | Host: cdn.discordapp.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:04] Client: [::1]:59416 | Host: play.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:07] Client: [::1]:56160 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:07] Client: [::1]:56166 | Host: ssl.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:11] Client: [::1]:56180 | Host: easylist-downloads.adblockplus.org | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:14] Client: [::1]:56184 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:17] Client: [::1]:56002 | Host: www.instagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:19] Client: [::1]:56014 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:19] Client: [::1]:56018 | Host: instagram.fdel29-1.fna.fbcdn.net | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:20] Client: [::1]:56034 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:21] Client: [::1]:56048 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:25] Client: [::1]:56064 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:25] Client: [::1]:56076 | Host: ssl.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:26] Client: [::1]:49784 | Host: graph.instagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:28] Client: [::1]:49794 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:35] Client: [::1]:49798 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:42] Client: [::1]:33268 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:49] Client: [::1]:36894 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:47:51] Client: [::1]:36896 | Host: static.cdninstagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:51] Client: [::1]:36906 | Host: flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:51] Client: [::1]:36910 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:51] Client: [::1]:36914 | Host: gateway.instagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:52] Client: [::1]:36928 | Host: edge-chat.instagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:52] Client: [::1]:36944 | Host: scontent.cdninstagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:52] Client: [::1]:36938 | Host: scontent.fdel29-1.fna.fbcdn.net | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:52] Client: [::1]:36948 | Host: scontent.cdninstagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:47:56] Client: [::1]:33270 | Host: edgedl.me.gvt1.com | Method: GET | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:80: i/o timeout
+[2026-01-08 18:47:56] Client: [::1]:40486 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:03] Client: [::1]:40494 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:06] Client: [::1]:36962 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
+[2026-01-08 18:48:06] Client: [::1]:40498 | Host: graph.instagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:48:10] Client: [::1]:42558 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:16] Client: [::1]:42550 | Host: edgedl.me.gvt1.com | Method: GET | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:80: i/o timeout
+[2026-01-08 18:48:17] Client: [::1]:46810 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:24] Client: [::1]:46812 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:26] Client: [::1]:46804 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
+[2026-01-08 18:48:31] Client: [::1]:39422 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
