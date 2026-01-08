@@ -431,3 +431,6 @@
 [2026-01-08 18:45:32] Client: [::1]:40110 | Host: prod-dynamite-prod-02-us-signaler-pa.clients6.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
 [2026-01-08 18:45:34] Client: [::1]:56530 | Host: edgedl.me.gvt1.com | Method: GET | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:80: i/o timeout
 [2026-01-08 18:45:37] Client: [::1]:59136 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:45:44] Client: [::1]:40122 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
+[2026-01-08 18:45:44] Client: [::1]:59138 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:45:45] Client: [::1]:59150 | Host: github.com | Method: CONNECT | Status: OK | Details: Tunnel established
