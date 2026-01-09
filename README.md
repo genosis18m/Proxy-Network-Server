@@ -1,3 +1,8 @@
+Link to video:
+https://drive.google.com/drive/folders/1rPgE7M6rvWE44iGM1n2no5nlSTr_olUq?usp=sharing
+
+
+
 # Custom Network Proxy Server
 
 A forward proxy server in Go that handles HTTP and HTTPS traffic. Implements socket programming, concurrency, request parsing, and domain filtering.
