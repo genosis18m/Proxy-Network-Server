@@ -503,3 +503,199 @@
 [2026-01-08 18:48:24] Client: [::1]:46812 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
 [2026-01-08 18:48:26] Client: [::1]:46804 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
 [2026-01-08 18:48:31] Client: [::1]:39422 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:38] Client: [::1]:36180 | Host: safebrowsing.googleapis.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:48:38] Client: [::1]:36186 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:40] Client: [::1]:36190 | Host: signaler-pa.clients6.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:48:44] Client: [::1]:36192 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:48:45] Client: [::1]:36206 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:52] Client: [::1]:39334 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:48:54] Client: [::1]:39348 | Host: github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:48:57] Client: [::1]:39332 | Host: edgedl.me.gvt1.com | Method: GET | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:80: i/o timeout
+[2026-01-08 18:48:59] Client: [::1]:35222 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:02] Client: [::1]:35236 | Host: browser.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:04] Client: [::1]:35242 | Host: github.githubassets.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:05] Client: [::1]:35252 | Host: avatars.githubusercontent.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:05] Client: [::1]:35262 | Host: api.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:05] Client: [::1]:35278 | Host: github.githubassets.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:05] Client: [::1]:35292 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:06] Client: [::1]:35302 | Host: fonts.gstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:06] Client: [::1]:35304 | Host: alive.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:06] Client: [::1]:52764 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:07] Client: [::1]:52748 | Host: collector.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:07] Client: [::1]:52772 | Host: clients4.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:07] Client: [::1]:35220 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
+[2026-01-08 18:49:13] Client: [::1]:52774 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:16] Client: [::1]:52770 | Host: 1.1.1.1 | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 1.1.1.1:443: i/o timeout
+[2026-01-08 18:49:17] Client: [::1]:37852 | Host: www.google-analytics.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:17] Client: [::1]:37860 | Host: 3-prod-dynamite-prod-02-us-signaler-pa.clients6.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:20] Client: [::1]:37864 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:26] Client: [::1]:37870 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:27] Client: [::1]:36186 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:34] Client: [::1]:36198 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:41] Client: [::1]:54314 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:48] Client: [::1]:57762 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:53] Client: [::1]:57772 | Host: prod-dynamite-prod-02-us-signaler-pa.clients6.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:49:55] Client: [::1]:57784 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:49:58] Client: [::1]:57746 | Host: edgedl.me.gvt1.com | Method: GET | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:80: i/o timeout
+[2026-01-08 18:50:02] Client: [::1]:55266 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:50:03] Client: [::1]:55282 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:50:08] Client: [::1]:55258 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
+[2026-01-08 18:50:09] Client: [::1]:53206 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:50:16] Client: [::1]:41162 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:50:23] Client: [::1]:41166 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:50:29] Client: [::1]:46502 | Host: discord.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:50:42] Client: [::1]:35674 | Host: www.instagram.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:50:49] Client: [::1]:51864 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:50:53] Client: [::1]:51876 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:50:54] Client: [::1]:51880 | Host: waa-pa.clients6.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:00] Client: [::1]:54272 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:00] Client: [::1]:54262 | Host: safebrowsing.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:01] Client: [::1]:54246 | Host: httpbin.org | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:03] Client: [::1]:54286 | Host: www.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:04] Client: [::1]:54302 | Host: www.youtube.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp: lookup www.youtube.com on 127.0.0.53:53: server misbehaving
+[2026-01-08 18:51:05] Client: [::1]:54336 | Host: chatgpt.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:05] Client: [::1]:54340 | Host: chatgpt.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:05] Client: [::1]:54314 | Host: www.youtube.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:05] Client: [::1]:54344 | Host: mtalk.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:05] Client: [::1]:54360 | Host: aks-prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:05] Client: [::1]:54320 | Host: alive.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:05] Client: [::1]:54376 | Host: badsite.org | Method: GET | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:05] Client: [::1]:54380 | Host: badsite.org | Method: GET | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:05] Client: [::1]:54394 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:07] Client: [::1]:49808 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:08] Client: [::1]:49810 | Host: gateway-us-east1-c.discord.gg | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:10] Client: [::1]:49830 | Host: self.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:12] Client: [::1]:49836 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:12] Client: [::1]:49842 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:13] Client: [::1]:49858 | Host: accounts.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:14] Client: [::1]:49868 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:15] Client: [::1]:49878 | Host: mail.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:18] Client: [::1]:53270 | Host: clients4.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:18] Client: [::1]:49824 | Host: edgedl.me.gvt1.com | Method: GET | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:80: i/o timeout
+[2026-01-08 18:51:21] Client: [::1]:53326 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:22] Client: [::1]:53300 | Host: mtalk.google.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:22] Client: [::1]:53314 | Host: aks-prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:22] Client: [::1]:53284 | Host: alive.github.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:22] Client: [::1]:53338 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:28] Client: [::1]:32952 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-08 18:51:28] Client: [::1]:32954 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-08 18:51:28] Client: [::1]:53276 | Host: edgedl.me.gvt1.com | Method: CONNECT | Status: ERROR | Details: Failed to connect: dial tcp 34.104.35.123:443: i/o timeout
+[2026-01-09 20:09:09] Client: [::1]:60104 | Host: badsite.org | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:09] Client: [::1]:60110 | Host: badsite.org | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:09] Client: [::1]:60112 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:10] Client: [::1]:60122 | Host: badsite.org | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:10] Client: [::1]:60128 | Host: badsite.org | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:11] Client: [::1]:60140 | Host: ntp.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60164 | Host: c.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60150 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60188 | Host: api.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60178 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60172 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60154 | Host: c.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60220 | Host: sb.scorecardresearch.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60206 | Host: th.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60148 | Host: self.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:11] Client: [::1]:60222 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:12] Client: [::1]:60190 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:12] Client: [::1]:60234 | Host: default.exp-tas.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:12] Client: [::1]:60274 | Host: r.msftstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:12] Client: [::1]:60268 | Host: r.msftstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:12] Client: [::1]:60246 | Host: r.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:12] Client: [::1]:60258 | Host: r.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:14] Client: [::1]:60290 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:14] Client: [::1]:60304 | Host: mobile.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:15] Client: [::1]:60316 | Host: mobile.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:19] Client: [::1]:33878 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:19] Client: [::1]:33892 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:19] Client: [::1]:33904 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:19] Client: [::1]:33918 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:20] Client: [::1]:33930 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:20] Client: [::1]:33944 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:20] Client: [::1]:33946 | Host: www.facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:09:32] Client: [::1]:36112 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:32] Client: [::1]:36114 | Host: th.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:32] Client: [::1]:36128 | Host: logs.netflix.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:33] Client: [::1]:36136 | Host: logs.netflix.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:09:37] Client: [::1]:56372 | Host: www.netflix.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:10:15] Client: [::1]:47612 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:10:45] Client: [::1]:40736 | Host: config.edge.skype.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:10:46] Client: [::1]:51620 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:10:47] Client: [::1]:51628 | Host: self.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:10:53] Client: [::1]:51642 | Host: easylist-downloads.adblockplus.org | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:10:57] Client: [::1]:46982 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:11:34] Client: [::1]:57702 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:11:39] Client: [::1]:43968 | Host: www.netflix.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:32] Client: [::1]:33798 | Host: www.google-analytics.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:39] Client: [::1]:33578 | Host: self.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:39] Client: [::1]:33586 | Host: badsite.org | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:40] Client: [::1]:33590 | Host: badsite.org | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:43] Client: [::1]:33600 | Host: ntp.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33660 | Host: api.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33630 | Host: c.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33654 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33642 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33606 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33684 | Host: sb.scorecardresearch.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33674 | Host: th.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33620 | Host: c.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33592 | Host: www.netflix.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:43] Client: [::1]:33690 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:44] Client: [::1]:33668 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:44] Client: [::1]:33724 | Host: r.msftstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:44] Client: [::1]:33736 | Host: r.msftstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:44] Client: [::1]:33700 | Host: r.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:44] Client: [::1]:33708 | Host: r.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:45] Client: [::1]:33740 | Host: config.edge.skype.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:45] Client: [::1]:33746 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:46] Client: [::1]:33752 | Host: self.events.data.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:46] Client: [::1]:33754 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:46] Client: [::1]:33756 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:46] Client: [::1]:50542 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:46] Client: [::1]:50544 | Host: ntp.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:49] Client: [::1]:50546 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:49] Client: [::1]:50556 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:49] Client: [::1]:50568 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:49] Client: [::1]:50572 | Host: data.flipshope.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:15:50] Client: [::1]:50588 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:50] Client: [::1]:50600 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:50] Client: [::1]:50602 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:55] Client: [::1]:50630 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:55] Client: [::1]:50634 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:55] Client: [::1]:50642 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:15:55] Client: [::1]:50614 | Host: a.nel.cloudflare.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46654 | Host: api.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46624 | Host: c.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46610 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46658 | Host: th.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46668 | Host: sb.scorecardresearch.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46636 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46644 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:04] Client: [::1]:46622 | Host: c.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:16:25] Client: [::1]:32838 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:16:25] Client: [::1]:32850 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:16:25] Client: [::1]:32858 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:16:48] Client: [::1]:34358 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:17:13] Client: [::1]:54266 | Host: www.netflix.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:17:25] Client: [::1]:45828 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:17:25] Client: [::1]:45830 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:17:25] Client: [::1]:45836 | Host: facebook.com | Method: CONNECT | Status: BLOCKED | Details: Domain is blocked
+[2026-01-09 20:17:32] Client: [::1]:59482 | Host: main.vscode-cdn.net | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:07] Client: [::1]:40392 | Host: client.wns.windows.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50742 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50776 | Host: sb.scorecardresearch.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50770 | Host: c.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50804 | Host: www.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50758 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50786 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50778 | Host: assets.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50788 | Host: r.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50790 | Host: r.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50792 | Host: r.msftstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50816 | Host: r.msftstatic.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50838 | Host: c.bing.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50834 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:57] Client: [::1]:50828 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:58] Client: [::1]:50862 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:58] Client: [::1]:50850 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:18:58] Client: [::1]:50870 | Host: browser.events.data.msn.com | Method: CONNECT | Status: OK | Details: Tunnel established
+[2026-01-09 20:19:00] Client: [::1]:50874 | Host: edge.microsoft.com | Method: CONNECT | Status: OK | Details: Tunnel established

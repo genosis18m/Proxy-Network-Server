@@ -243,7 +243,10 @@ func cleanRequestURI(rawURI string) string {
 func isBlocked(host string, blocklist map[string]bool) bool {
 	// Normalize host (lowercase, strip port if present)
 	host = strings.ToLower(host)
-	host, _, _ = net.SplitHostPort(host + ":") // Handle case with no port
+	// Use SplitHostPort only when host includes a port; if it errors, keep host unchanged
+	if h, _, err := net.SplitHostPort(host); err == nil {
+		host = h
+	}
 	if host == "" {
 		return false
 	}
